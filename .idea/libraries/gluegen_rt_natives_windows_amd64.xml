@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="gluegen-rt-natives-windows-amd64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../jogamp-all-platforms/jogamp-all-platforms/actual needed jars/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jogamp-all-platforms/jogamp-all-platforms/actual needed jars/gluegen-rt-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jogamp-all-platforms/jogamp-all-platforms/actual needed jars/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jogamp-all-platforms/jogamp-all-platforms/actual needed jars/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jogamp-all-platforms/jogamp-all-platforms/actual needed jars/jogl-all-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jogamp-all-platforms/jogamp-all-platforms/actual needed jars/jogl-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

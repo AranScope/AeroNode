@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AeroNode">
+    <output-path>$PROJECT_DIR$/out/artifacts/AeroNode</output-path>
+    <root id="archive" name="AeroNode.jar">
+      <element id="module-output" name="AeroNode" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-lang3-3.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jssc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.32-bin.jar" path-in-jar="/" />
+      <element id="library" level="project" name="gluegen-rt" />
+    </root>
+  </artifact>
+</component>
